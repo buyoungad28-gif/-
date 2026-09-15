@@ -1,0 +1,6 @@
+{
+  "name": "이레 특수방수공사",
+  "description": "부산 연제구 특수방수, 옥상 우레탄 방수, 에폭시 바닥 시공, 건축물 유지보수 및 크랙보수 그라우팅 전문 시공 업체 (대표 문영주)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
